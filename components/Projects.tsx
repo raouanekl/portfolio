@@ -25,7 +25,7 @@ const projects = [
   {
     title: "calculator",
     description: "A design portfolio concept focusing on visual storytelling and interactive UI elements using modern web standards.",
-    tech: ["React", "Tailwind", "html"],
+    tech: ["React", "typescript", "html"],
     techColors: ["#5D8AA8", "#9D81BA", "#DAA520"],
     liveLink: "https://raouanekl.github.io/calculator/",
     githubLink: "https://github.com/raouanekl/calculator",
